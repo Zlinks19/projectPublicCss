@@ -17,8 +17,8 @@
 
 ```css
 .flex 				-->		display:flex
-.flex_items_c		-->		align-items: center
-.flex_just_sb		-->		justify-content: space-between
+.flex_items_c 		-->		align-items: center
+.flex_just_sb 		-->		justify-content: space-between
 .flex_wrap			-->		flex-wrap: wrap;
 ```
 
