@@ -9,16 +9,16 @@
 
 ```css
 .w100 		 -->  	 width:100px
-.h100 		 --> 	  height:100px
-.pa10 		 --> 	  padding:10
+.h100 		 --> 	 height:100px
+.pa10 		 --> 	 padding:10
 
 ```
 布局类型
 
 ```css
 .flex 				-->		display:flex
-.flex_items_c		 -->		align-items: center
-.flex_just_sb		 -->		justify-content: space-between
+.flex_items_c		-->		align-items: center
+.flex_just_sb		-->		justify-content: space-between
 .flex_wrap			-->		flex-wrap: wrap;
 ```
 
