@@ -16,10 +16,10 @@
 布局类型
 
 ```css
-.flex 			-->		display:flex
+.flex 			 -->		display:flex
 .flex_items_c		 -->		align-items: center
 .flex_just_sb		 -->		justify-content: space-between
-.flex_wrap		-->		flex-wrap: wrap;
+.flex_wrap		 -->		flex-wrap: wrap;
 ```
 
 > 采用 GNU通用公共许可证 Version 3 许可协议
