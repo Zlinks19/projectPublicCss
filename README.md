@@ -8,7 +8,7 @@
 样式调整类型
 
 ```css
-.w100 		 -->  	 width:100px
+.w100 		 -->  	  width:100px
 .h100 		 --> 	  height:100px
 .pa10 		 --> 	  padding:10
 
